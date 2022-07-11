@@ -1,0 +1,3 @@
+send /login sifre
+wait 7 seconds
+send /survival

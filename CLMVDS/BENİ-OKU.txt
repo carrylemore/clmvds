@@ -1,0 +1,18 @@
+Kullanım Talimatları:
+1- Hesap.txt dosyasını Not Defteri ile açın ve şifre bölümünü şifrenizle değiştirin. Ardından alttaki /survial bölümünü SkyBlock'ta afk kalmak istiyorsanız /skyblock olarak değiştirin.
+2- Windows kullanıyorsanız baslat.bat dosyasını, Linux kullanıyorsanız baslat.sh dosyasını çalıştırın.
+3- Tebrikler CarryLeMoreVDS'E konsol uygulaması ile girdiniz.
+
+Sunucu kapandığında ya da atıldığınızda otomatik tekrardan bağlanmaya çalışacaktır. Böylelikle 7/24 AFK kalabilirsiniz.
+
+Linux İçin Gelişmiş Talimatlar:
+  Linux kullanıyorsanız öncelike mono-complete paketini kurmanız gerekiyor.
+  Centos için:
+  yum install mono-complete
+
+  Ubuntu ve Debian İçin:
+  apt install mono-complete
+
+  Bu komutlar sizin için çalışmazsa Google üzerinde "How to install mono-complete Linux" diye aratıp daha detaylı bilgi bulabilirsiniz.
+
+  Bildiğim tüm kick massageleri ekledim, farklı bir kick massage için txt dosyasını düzenleyebilirsiniz.
