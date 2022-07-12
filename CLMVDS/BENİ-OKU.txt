@@ -1,6 +1,6 @@
 Kullanım Talimatları:
 1- Hesap.txt dosyasını Not Defteri ile açın ve şifre bölümünü şifrenizle değiştirin. Ardından alttaki /survial bölümünü SkyBlock'ta afk kalmak istiyorsanız /skyblock olarak değiştirin.
-2- Windows kullanıyorsanız baslat.bat dosyasını, Linux kullanıyorsanız baslat.sh dosyasını çalıştırın.
+2- Windows kullanıyorsanız baslat.bat dosyasını, Linux kullanıyorsanız baslat.sh dosyasını düzenleyerek isminizi ekleyin ve çalıştırın. 
 3- Tebrikler CarryLeMoreVDS'E konsol uygulaması ile girdiniz.
 
 Sunucu kapandığında ya da atıldığınızda otomatik tekrardan bağlanmaya çalışacaktır. Böylelikle 7/24 AFK kalabilirsiniz.

@@ -1,4 +1,4 @@
 @echo off
 :baslat
-MinecraftClient.exe UnioGuvenlik01 -
+MinecraftClient.exe NickName -
 GOTO baslat
